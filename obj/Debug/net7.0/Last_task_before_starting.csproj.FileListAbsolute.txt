@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\bin\Debug\net7.0\Last_task_before_starting.exe
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\bin\Debug\net7.0\Last_task_before_starting.deps.json
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\bin\Debug\net7.0\Last_task_before_starting.runtimeconfig.json
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\bin\Debug\net7.0\Last_task_before_starting.dll
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\bin\Debug\net7.0\Last_task_before_starting.pdb
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\Last_task_before_starting.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\Last_task_before_starting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\Last_task_before_starting.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\Last_task_before_starting.AssemblyInfo.cs
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\Last_task_before_starting.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\Last_task_before_starting.dll
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\refint\Last_task_before_starting.dll
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\Last_task_before_starting.pdb
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\Last_task_before_starting.genruntimeconfig.cache
+C:\Users\andre\Documents\VS Code\Last_task_before_starting\obj\Debug\net7.0\ref\Last_task_before_starting.dll
